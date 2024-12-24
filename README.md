@@ -20,5 +20,6 @@ This is a simple RESTful API built with Flask for managing products. It allows y
    ```bash
    pip install -r requirements.txt
 3. Run the Flask application:
+   ```bash
    python app.py
 4. The API will be available at http://127.0.0.1:5000.
